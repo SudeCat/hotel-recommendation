@@ -1,0 +1,525 @@
+﻿hotel_name,aspect,pos_ratio
+APART 48,breakfast_quality,0.7
+APART 48,cleanliness,0.7
+APART 48,pool_beach,0.7
+APART 48,room_facilities,0.7
+Acar Pansiyon,breakfast_quality,0.9
+Acar Pansiyon,cleanliness,1.0
+Acar Pansiyon,pool_beach,0.9
+Acar Pansiyon,room_facilities,1.0
+Akasya Apart Otel (Akyaka),breakfast_quality,1.0
+Akasya Apart Otel (Akyaka),cleanliness,1.0
+Akasya Apart Otel (Akyaka),pool_beach,1.0
+Akasya Apart Otel (Akyaka),room_facilities,1.0
+Akyaka Apart Konaklama,breakfast_quality,1.0
+Akyaka Apart Konaklama,cleanliness,1.0
+Akyaka Apart Konaklama,pool_beach,1.0
+Akyaka Apart Konaklama,room_facilities,1.0
+Akyaka Apart Pansiyon,breakfast_quality,0.4
+Akyaka Apart Pansiyon,cleanliness,0.3
+Akyaka Apart Pansiyon,pool_beach,0.4
+Akyaka Apart Pansiyon,room_facilities,0.3
+Akyaka Azmak Apart,breakfast_quality,0.8
+Akyaka Azmak Apart,cleanliness,0.8
+Akyaka Azmak Apart,pool_beach,0.8
+Akyaka Azmak Apart,room_facilities,0.8
+Akyaka Kaya Delsol Otel,breakfast_quality,0.8
+Akyaka Kaya Delsol Otel,cleanliness,0.8
+Akyaka Kaya Delsol Otel,pool_beach,0.8
+Akyaka Kaya Delsol Otel,room_facilities,0.8
+Akyaka Tatil Apart,breakfast_quality,0.9
+Akyaka Tatil Apart,cleanliness,0.9
+Akyaka Tatil Apart,pool_beach,0.8
+Akyaka Tatil Apart,room_facilities,0.9
+Akyaka Villa Marine Otel & Restoran,breakfast_quality,1.0
+Akyaka Villa Marine Otel & Restoran,cleanliness,1.0
+Akyaka Villa Marine Otel & Restoran,pool_beach,1.0
+Akyaka Villa Marine Otel & Restoran,room_facilities,1.0
+Akyaka Yali Capkini,breakfast_quality,1.0
+Akyaka Yali Capkini,cleanliness,1.0
+Akyaka Yali Capkini,pool_beach,1.0
+Akyaka Yali Capkini,room_facilities,1.0
+Akyaka Yeşil Apart,breakfast_quality,1.0
+Akyaka Yeşil Apart,cleanliness,1.0
+Akyaka Yeşil Apart,pool_beach,0.9
+Akyaka Yeşil Apart,room_facilities,1.0
+Akyaka Zeytin Apart,breakfast_quality,1.0
+Akyaka Zeytin Apart,cleanliness,1.0
+Akyaka Zeytin Apart,pool_beach,1.0
+Akyaka Zeytin Apart,room_facilities,1.0
+Akyaka apart mera,breakfast_quality,0.3
+Akyaka apart mera,cleanliness,0.6
+Akyaka apart mera,pool_beach,0.3
+Akyaka apart mera,room_facilities,0.4
+Akyaka Özgem Apart Otel,breakfast_quality,1.0
+Akyaka Özgem Apart Otel,cleanliness,1.0
+Akyaka Özgem Apart Otel,pool_beach,1.0
+Akyaka Özgem Apart Otel,room_facilities,1.0
+Ala Butik Hotel,breakfast_quality,1.0
+Ala Butik Hotel,cleanliness,1.0
+Ala Butik Hotel,pool_beach,1.0
+Ala Butik Hotel,room_facilities,1.0
+Alp Suites Lavanta,breakfast_quality,0.7
+Alp Suites Lavanta,cleanliness,0.7
+Alp Suites Lavanta,pool_beach,0.5
+Alp Suites Lavanta,room_facilities,0.8
+Alp Suites Mandalin,breakfast_quality,0.9
+Alp Suites Mandalin,cleanliness,1.0
+Alp Suites Mandalin,pool_beach,1.0
+Alp Suites Mandalin,room_facilities,0.9
+Alp Suites Pinehill,breakfast_quality,0.9
+Alp Suites Pinehill,cleanliness,0.9
+Alp Suites Pinehill,pool_beach,0.8
+Alp Suites Pinehill,room_facilities,0.9
+Alp Suites Safran,breakfast_quality,0.9
+Alp Suites Safran,cleanliness,1.0
+Alp Suites Safran,pool_beach,0.9
+Alp Suites Safran,room_facilities,0.9
+Amber Suites Akyaka,breakfast_quality,0.9
+Amber Suites Akyaka,cleanliness,1.0
+Amber Suites Akyaka,pool_beach,1.0
+Amber Suites Akyaka,room_facilities,1.0
+Anayurt Oteli Akyaka,breakfast_quality,0.5
+Anayurt Oteli Akyaka,cleanliness,0.5
+Anayurt Oteli Akyaka,pool_beach,0.5
+Anayurt Oteli Akyaka,room_facilities,0.4
+AnkAkyaka Apart Hotel,breakfast_quality,0.8
+AnkAkyaka Apart Hotel,cleanliness,0.8
+AnkAkyaka Apart Hotel,pool_beach,0.8
+AnkAkyaka Apart Hotel,room_facilities,0.7
+Ayka Otel,breakfast_quality,0.9
+Ayka Otel,cleanliness,1.0
+Ayka Otel,pool_beach,0.7
+Ayka Otel,room_facilities,0.8
+AŞKYAKA APART - SADECE SEZONLUK DAİRE KİRALIYORUZ,breakfast_quality,0.8
+AŞKYAKA APART - SADECE SEZONLUK DAİRE KİRALIYORUZ,cleanliness,0.8
+AŞKYAKA APART - SADECE SEZONLUK DAİRE KİRALIYORUZ,pool_beach,0.8
+AŞKYAKA APART - SADECE SEZONLUK DAİRE KİRALIYORUZ,room_facilities,0.8
+BEACON HILL SUITES,breakfast_quality,0.9
+BEACON HILL SUITES,cleanliness,1.0
+BEACON HILL SUITES,pool_beach,1.0
+BEACON HILL SUITES,room_facilities,0.9
+Balèze Boutique Hotel,breakfast_quality,0.9
+Balèze Boutique Hotel,cleanliness,1.0
+Balèze Boutique Hotel,pool_beach,1.0
+Balèze Boutique Hotel,room_facilities,1.0
+Berlin Apart pansiyo,breakfast_quality,0.3
+Berlin Apart pansiyo,cleanliness,0.4
+Berlin Apart pansiyo,pool_beach,0.3
+Berlin Apart pansiyo,room_facilities,0.3
+Can Apart ( Akyaka ),breakfast_quality,1.0
+Can Apart ( Akyaka ),cleanliness,1.0
+Can Apart ( Akyaka ),pool_beach,0.9
+Can Apart ( Akyaka ),room_facilities,0.9
+Carissa Otel,breakfast_quality,0.8
+Carissa Otel,cleanliness,0.8
+Carissa Otel,pool_beach,0.8
+Carissa Otel,room_facilities,0.9
+Ceylan Apart,breakfast_quality,0.6
+Ceylan Apart,cleanliness,1.0
+Ceylan Apart,pool_beach,0.6
+Ceylan Apart,room_facilities,0.8
+Cumba Apart,breakfast_quality,0.7
+Cumba Apart,cleanliness,0.8
+Cumba Apart,pool_beach,0.7
+Cumba Apart,room_facilities,0.7
+Dedeoğlu Apart,breakfast_quality,0.8
+Dedeoğlu Apart,cleanliness,0.8
+Dedeoğlu Apart,pool_beach,0.8
+Dedeoğlu Apart,room_facilities,0.8
+Deger Apart Akyaka,breakfast_quality,0.9
+Deger Apart Akyaka,cleanliness,1.0
+Deger Apart Akyaka,pool_beach,0.9
+Deger Apart Akyaka,room_facilities,1.0
+Demircioğlu Park Hotel,breakfast_quality,0.7
+Demircioğlu Park Hotel,cleanliness,0.8
+Demircioğlu Park Hotel,pool_beach,0.8
+Demircioğlu Park Hotel,room_facilities,0.8
+Dinlen Apart Otel,breakfast_quality,0.0
+Dinlen Apart Otel,cleanliness,0.0
+Dinlen Apart Otel,pool_beach,0.0
+Dinlen Apart Otel,room_facilities,0.0
+Egehan Otel,breakfast_quality,0.7
+Egehan Otel,cleanliness,0.7
+Egehan Otel,pool_beach,0.7
+Egehan Otel,room_facilities,0.8
+Elçin Kız Öğrenci Apartı,breakfast_quality,1.0
+Elçin Kız Öğrenci Apartı,cleanliness,1.0
+Elçin Kız Öğrenci Apartı,pool_beach,1.0
+Elçin Kız Öğrenci Apartı,room_facilities,1.0
+Erdem Otel,breakfast_quality,0.8
+Erdem Otel,cleanliness,0.7
+Erdem Otel,pool_beach,0.8
+Erdem Otel,room_facilities,0.7
+Ersöz Butik Otel,breakfast_quality,0.9
+Ersöz Butik Otel,cleanliness,0.9
+Ersöz Butik Otel,pool_beach,0.9
+Ersöz Butik Otel,room_facilities,0.9
+Esen Apart,breakfast_quality,1.0
+Esen Apart,cleanliness,1.0
+Esen Apart,pool_beach,1.0
+Esen Apart,room_facilities,1.0
+Fabric Otel Akyaka,breakfast_quality,0.7
+Fabric Otel Akyaka,cleanliness,0.7
+Fabric Otel Akyaka,pool_beach,0.8
+Fabric Otel Akyaka,room_facilities,0.7
+Feron Otel,breakfast_quality,0.5
+Feron Otel,cleanliness,0.8
+Feron Otel,pool_beach,0.3
+Feron Otel,room_facilities,0.7
+Gaye Apart Hotel,breakfast_quality,0.8
+Gaye Apart Hotel,cleanliness,0.8
+Gaye Apart Hotel,pool_beach,0.8
+Gaye Apart Hotel,room_facilities,0.7
+Gokturk Otel,breakfast_quality,0.7
+Gokturk Otel,cleanliness,0.7
+Gokturk Otel,pool_beach,0.7
+Gokturk Otel,room_facilities,0.7
+Gökova Şemkin Apart,breakfast_quality,1.0
+Gökova Şemkin Apart,cleanliness,1.0
+Gökova Şemkin Apart,pool_beach,1.0
+Gökova Şemkin Apart,room_facilities,1.0
+Göktürk Butik Otel,breakfast_quality,1.0
+Göktürk Butik Otel,cleanliness,1.0
+Göktürk Butik Otel,pool_beach,1.0
+Göktürk Butik Otel,room_facilities,0.5
+Gülemce Apart & Villas,breakfast_quality,0.9
+Gülemce Apart & Villas,cleanliness,0.9
+Gülemce Apart & Villas,pool_beach,0.9
+Gülemce Apart & Villas,room_facilities,0.9
+Gülzade Konak Apart,breakfast_quality,0.7
+Gülzade Konak Apart,cleanliness,0.7
+Gülzade Konak Apart,pool_beach,0.7
+Gülzade Konak Apart,room_facilities,0.7
+Günışığı Apart,breakfast_quality,0.7
+Günışığı Apart,cleanliness,0.8
+Günışığı Apart,pool_beach,0.6
+Günışığı Apart,room_facilities,0.7
+HAFIZOĞLU OTEL,breakfast_quality,1.0
+HAFIZOĞLU OTEL,cleanliness,1.0
+HAFIZOĞLU OTEL,pool_beach,1.0
+HAFIZOĞLU OTEL,room_facilities,1.0
+Hamle Hotel,breakfast_quality,0.7
+Hamle Hotel,cleanliness,0.7
+Hamle Hotel,pool_beach,0.6
+Hamle Hotel,room_facilities,0.7
+Hotel Azmakhan,breakfast_quality,0.6
+Hotel Azmakhan,cleanliness,0.7
+Hotel Azmakhan,pool_beach,0.7
+Hotel Azmakhan,room_facilities,0.5
+Hotel Caretta,breakfast_quality,0.9
+Hotel Caretta,cleanliness,0.8
+Hotel Caretta,pool_beach,0.9
+Hotel Caretta,room_facilities,0.9
+Hotel Grand Azmakhan Spa & Wellness,breakfast_quality,0.3
+Hotel Grand Azmakhan Spa & Wellness,cleanliness,0.1
+Hotel Grand Azmakhan Spa & Wellness,pool_beach,0.1
+Hotel Grand Azmakhan Spa & Wellness,room_facilities,0.1
+Hotel Yalçın,breakfast_quality,0.9
+Hotel Yalçın,cleanliness,0.9
+Hotel Yalçın,pool_beach,0.9
+Hotel Yalçın,room_facilities,0.9
+Huzur Apart Otel,breakfast_quality,0.9
+Huzur Apart Otel,cleanliness,0.9
+Huzur Apart Otel,pool_beach,0.8
+Huzur Apart Otel,room_facilities,0.9
+Huzur Han Otel,breakfast_quality,0.9
+Huzur Han Otel,cleanliness,0.9
+Huzur Han Otel,pool_beach,0.9
+Huzur Han Otel,room_facilities,0.9
+Keramos Pansiyon Akyaka,breakfast_quality,0.9
+Keramos Pansiyon Akyaka,cleanliness,1.0
+Keramos Pansiyon Akyaka,pool_beach,1.0
+Keramos Pansiyon Akyaka,room_facilities,1.0
+Kerme Ottoman Gökova,breakfast_quality,0.6
+Kerme Ottoman Gökova,cleanliness,0.7
+Kerme Ottoman Gökova,pool_beach,0.5
+Kerme Ottoman Gökova,room_facilities,0.7
+Kerme Ottoman Palace,breakfast_quality,0.4
+Kerme Ottoman Palace,cleanliness,0.4
+Kerme Ottoman Palace,pool_beach,0.3
+Kerme Ottoman Palace,room_facilities,0.6
+Kiraz Cicegi Butik Otel Akyaka,breakfast_quality,0.6
+Kiraz Cicegi Butik Otel Akyaka,cleanliness,0.8
+Kiraz Cicegi Butik Otel Akyaka,pool_beach,0.7
+Kiraz Cicegi Butik Otel Akyaka,room_facilities,0.7
+Koparan Apart,breakfast_quality,0.6
+Koparan Apart,cleanliness,0.6
+Koparan Apart,pool_beach,0.6
+Koparan Apart,room_facilities,0.6
+Kordon Otel & Apart Akyaka Ula Muğla,breakfast_quality,0.6
+Kordon Otel & Apart Akyaka Ula Muğla,cleanliness,0.8
+Kordon Otel & Apart Akyaka Ula Muğla,pool_beach,0.8
+Kordon Otel & Apart Akyaka Ula Muğla,room_facilities,0.8
+KÖRFEZ OTEL & RESTAURANT,breakfast_quality,0.4
+KÖRFEZ OTEL & RESTAURANT,cleanliness,0.4
+KÖRFEZ OTEL & RESTAURANT,pool_beach,0.4
+KÖRFEZ OTEL & RESTAURANT,room_facilities,0.4
+Lacivert Otel Akyaka,breakfast_quality,0.8
+Lacivert Otel Akyaka,cleanliness,1.0
+Lacivert Otel Akyaka,pool_beach,0.8
+Lacivert Otel Akyaka,room_facilities,0.8
+Lena Apart,breakfast_quality,1.0
+Lena Apart,cleanliness,1.0
+Lena Apart,pool_beach,1.0
+Lena Apart,room_facilities,1.0
+Limon Apart,breakfast_quality,1.0
+Limon Apart,cleanliness,1.0
+Limon Apart,pool_beach,1.0
+Limon Apart,room_facilities,1.0
+Limon Otel,breakfast_quality,0.8
+Limon Otel,cleanliness,0.8
+Limon Otel,pool_beach,0.6
+Limon Otel,room_facilities,0.7
+Liya Boutique Hotel & Suites / Villa Yonca,breakfast_quality,1.0
+Liya Boutique Hotel & Suites / Villa Yonca,cleanliness,1.0
+Liya Boutique Hotel & Suites / Villa Yonca,pool_beach,1.0
+Liya Boutique Hotel & Suites / Villa Yonca,room_facilities,1.0
+MERKEZ APART PANSİYON,breakfast_quality,0.3
+MERKEZ APART PANSİYON,cleanliness,0.3
+MERKEZ APART PANSİYON,pool_beach,0.3
+MERKEZ APART PANSİYON,room_facilities,0.3
+MSKÜ Akyaka Uygulama Oteli,breakfast_quality,0.8
+MSKÜ Akyaka Uygulama Oteli,cleanliness,0.9
+MSKÜ Akyaka Uygulama Oteli,pool_beach,0.6
+MSKÜ Akyaka Uygulama Oteli,room_facilities,0.9
+Marina Port Otel Akyaka,breakfast_quality,0.9
+Marina Port Otel Akyaka,cleanliness,0.9
+Marina Port Otel Akyaka,pool_beach,0.9
+Marina Port Otel Akyaka,room_facilities,0.9
+Meltem Hanım Konağı butik otel ve Restoran,breakfast_quality,0.9
+Meltem Hanım Konağı butik otel ve Restoran,cleanliness,0.9
+Meltem Hanım Konağı butik otel ve Restoran,pool_beach,0.8
+Meltem Hanım Konağı butik otel ve Restoran,room_facilities,0.9
+Menteşede Oteller | Karya Apart Otel,breakfast_quality,0.8
+Menteşede Oteller | Karya Apart Otel,cleanliness,0.8
+Menteşede Oteller | Karya Apart Otel,pool_beach,0.8
+Menteşede Oteller | Karya Apart Otel,room_facilities,0.8
+Mercan Apart Akyaka,breakfast_quality,0.5
+Mercan Apart Akyaka,cleanliness,0.7
+Mercan Apart Akyaka,pool_beach,0.5
+Mercan Apart Akyaka,room_facilities,0.6
+Merve Han Residence Hotel,breakfast_quality,0.5
+Merve Han Residence Hotel,cleanliness,0.4
+Merve Han Residence Hotel,pool_beach,0.5
+Merve Han Residence Hotel,room_facilities,0.4
+Mevsim Apart,breakfast_quality,1.0
+Mevsim Apart,cleanliness,1.0
+Mevsim Apart,pool_beach,1.0
+Mevsim Apart,room_facilities,1.0
+Mevsim Apart - Akyaka Apart,breakfast_quality,0.9
+Mevsim Apart - Akyaka Apart,cleanliness,1.0
+Mevsim Apart - Akyaka Apart,pool_beach,0.9
+Mevsim Apart - Akyaka Apart,room_facilities,1.0
+Mevsim Otel - Akyaka Otel,breakfast_quality,0.6
+Mevsim Otel - Akyaka Otel,cleanliness,0.6
+Mevsim Otel - Akyaka Otel,pool_beach,0.6
+Mevsim Otel - Akyaka Otel,room_facilities,0.5
+Mimoza Pansiyon,breakfast_quality,0.6
+Mimoza Pansiyon,cleanliness,0.6
+Mimoza Pansiyon,pool_beach,0.6
+Mimoza Pansiyon,room_facilities,0.7
+Mira Apart,breakfast_quality,1.0
+Mira Apart,cleanliness,1.0
+Mira Apart,pool_beach,1.0
+Mira Apart,room_facilities,1.0
+Mosso Boutique Hotel,breakfast_quality,0.8888888888888888
+Mosso Boutique Hotel,cleanliness,0.7777777777777778
+Mosso Boutique Hotel,pool_beach,0.6666666666666666
+Mosso Boutique Hotel,room_facilities,0.6666666666666666
+Moğla Taşhan otel,breakfast_quality,0.7
+Moğla Taşhan otel,cleanliness,0.8
+Moğla Taşhan otel,pool_beach,0.6
+Moğla Taşhan otel,room_facilities,0.8
+Muğla Hotel,breakfast_quality,0.75
+Muğla Hotel,cleanliness,0.75
+Muğla Hotel,pool_beach,0.75
+Muğla Hotel,room_facilities,0.75
+Nehir Apart Otel,breakfast_quality,0.9
+Nehir Apart Otel,cleanliness,0.9
+Nehir Apart Otel,pool_beach,0.9
+Nehir Apart Otel,room_facilities,0.9
+Nehir Butik Otel,breakfast_quality,0.8
+Nehir Butik Otel,cleanliness,0.8
+Nehir Butik Otel,pool_beach,0.8
+Nehir Butik Otel,room_facilities,0.8
+No22 Riders'Inn,breakfast_quality,0.7
+No22 Riders'Inn,cleanliness,0.7
+No22 Riders'Inn,pool_beach,0.7
+No22 Riders'Inn,room_facilities,0.8
+Nova Aparts Otel,breakfast_quality,0.9
+Nova Aparts Otel,cleanliness,0.9
+Nova Aparts Otel,pool_beach,0.9
+Nova Aparts Otel,room_facilities,0.9
+NİL HOTEL,breakfast_quality,0.4
+NİL HOTEL,cleanliness,0.5
+NİL HOTEL,pool_beach,0.4
+NİL HOTEL,room_facilities,0.4
+Orkide Apart Hotel,breakfast_quality,0.9
+Orkide Apart Hotel,cleanliness,0.9
+Orkide Apart Hotel,pool_beach,0.9
+Orkide Apart Hotel,room_facilities,0.8
+Otel Arın,breakfast_quality,1.0
+Otel Arın,cleanliness,1.0
+Otel Arın,pool_beach,1.0
+Otel Arın,room_facilities,1.0
+PORTOFİNO APART ŞUBE,breakfast_quality,1.0
+PORTOFİNO APART ŞUBE,cleanliness,1.0
+PORTOFİNO APART ŞUBE,pool_beach,1.0
+PORTOFİNO APART ŞUBE,room_facilities,1.0
+Padok Premium Hotel & Stables,breakfast_quality,0.6
+Padok Premium Hotel & Stables,cleanliness,0.8
+Padok Premium Hotel & Stables,pool_beach,0.7
+Padok Premium Hotel & Stables,room_facilities,0.6
+Palmiye Apart Otel,breakfast_quality,0.8
+Palmiye Apart Otel,cleanliness,0.8
+Palmiye Apart Otel,pool_beach,0.8
+Palmiye Apart Otel,room_facilities,0.8
+Panamara Otel,breakfast_quality,0.6
+Panamara Otel,cleanliness,0.7
+Panamara Otel,pool_beach,0.7
+Panamara Otel,room_facilities,0.7
+Panamare Apart & Hotel Akyaka,breakfast_quality,0.6
+Panamare Apart & Hotel Akyaka,cleanliness,0.6
+Panamare Apart & Hotel Akyaka,pool_beach,0.5
+Panamare Apart & Hotel Akyaka,room_facilities,0.6
+Petek Hotel,breakfast_quality,0.7
+Petek Hotel,cleanliness,0.8
+Petek Hotel,pool_beach,0.6
+Petek Hotel,room_facilities,0.7
+Raymar Hotels Muğla,breakfast_quality,0.9
+Raymar Hotels Muğla,cleanliness,1.0
+Raymar Hotels Muğla,pool_beach,1.0
+Raymar Hotels Muğla,room_facilities,1.0
+Renklice Apart Evler,breakfast_quality,1.0
+Renklice Apart Evler,cleanliness,1.0
+Renklice Apart Evler,pool_beach,1.0
+Renklice Apart Evler,room_facilities,0.9
+Santo Akyaka Home,breakfast_quality,0.5263157894736842
+Santo Akyaka Home,cleanliness,0.631578947368421
+Santo Akyaka Home,pool_beach,0.42105263157894735
+Santo Akyaka Home,room_facilities,0.5263157894736842
+Server Apart Hotel,breakfast_quality,0.8
+Server Apart Hotel,cleanliness,0.8
+Server Apart Hotel,pool_beach,0.8
+Server Apart Hotel,room_facilities,0.9
+Sezgin Apart,breakfast_quality,0.5
+Sezgin Apart,cleanliness,0.5
+Sezgin Apart,pool_beach,0.5
+Sezgin Apart,room_facilities,0.5
+Shimal Residences & Hotel,breakfast_quality,0.8
+Shimal Residences & Hotel,cleanliness,0.8
+Shimal Residences & Hotel,pool_beach,0.8
+Shimal Residences & Hotel,room_facilities,0.8
+Su Apart Otel Akyaka,breakfast_quality,0.6
+Su Apart Otel Akyaka,cleanliness,0.6
+Su Apart Otel Akyaka,pool_beach,0.5
+Su Apart Otel Akyaka,room_facilities,0.6
+Summer Otel,breakfast_quality,0.6
+Summer Otel,cleanliness,0.7
+Summer Otel,pool_beach,0.7
+Summer Otel,room_facilities,0.7
+TN&CO Exclusive CIP Suites/Primeclass Rooms,breakfast_quality,0.8
+TN&CO Exclusive CIP Suites/Primeclass Rooms,cleanliness,0.8
+TN&CO Exclusive CIP Suites/Primeclass Rooms,pool_beach,0.8
+TN&CO Exclusive CIP Suites/Primeclass Rooms,room_facilities,0.8
+Teras Tepe Apart,breakfast_quality,0.4
+Teras Tepe Apart,cleanliness,0.4
+Teras Tepe Apart,pool_beach,0.4
+Teras Tepe Apart,room_facilities,0.4
+Totelya Hotel,breakfast_quality,1.0
+Totelya Hotel,cleanliness,1.0
+Totelya Hotel,pool_beach,0.9
+Totelya Hotel,room_facilities,1.0
+Tuna Otel,breakfast_quality,0.8
+Tuna Otel,cleanliness,1.0
+Tuna Otel,pool_beach,1.0
+Tuna Otel,room_facilities,0.9
+Tuna Otel Rezidans,breakfast_quality,0.7
+Tuna Otel Rezidans,cleanliness,0.7
+Tuna Otel Rezidans,pool_beach,0.7
+Tuna Otel Rezidans,room_facilities,0.7
+Tuncer Otel,breakfast_quality,1.0
+Tuncer Otel,cleanliness,1.0
+Tuncer Otel,pool_beach,1.0
+Tuncer Otel,room_facilities,1.0
+Ugur Apart Hotel,breakfast_quality,0.6
+Ugur Apart Hotel,cleanliness,0.8
+Ugur Apart Hotel,pool_beach,0.7
+Ugur Apart Hotel,room_facilities,0.6
+Uğurevler Apart,breakfast_quality,0.8
+Uğurevler Apart,cleanliness,0.7
+Uğurevler Apart,pool_beach,0.7
+Uğurevler Apart,room_facilities,0.7
+Verde Suites Akyaka,breakfast_quality,0.8
+Verde Suites Akyaka,cleanliness,0.8
+Verde Suites Akyaka,pool_beach,0.8
+Verde Suites Akyaka,room_facilities,0.8
+XOX Apart Hotel,breakfast_quality,1.0
+XOX Apart Hotel,cleanliness,1.0
+XOX Apart Hotel,pool_beach,1.0
+XOX Apart Hotel,room_facilities,1.0
+YAKABÜK TİNY HOUSE PANSİYON,breakfast_quality,1.0
+YAKABÜK TİNY HOUSE PANSİYON,cleanliness,1.0
+YAKABÜK TİNY HOUSE PANSİYON,pool_beach,1.0
+YAKABÜK TİNY HOUSE PANSİYON,room_facilities,1.0
+Yakabük Otel & Restaurant,breakfast_quality,0.9
+Yakabük Otel & Restaurant,cleanliness,0.9
+Yakabük Otel & Restaurant,pool_beach,0.9
+Yakabük Otel & Restaurant,room_facilities,0.8
+Yatu Apart Otel,breakfast_quality,0.75
+Yatu Apart Otel,cleanliness,1.0
+Yatu Apart Otel,pool_beach,0.625
+Yatu Apart Otel,room_facilities,0.5
+Yelken Hotel Akyaka,breakfast_quality,0.8
+Yelken Hotel Akyaka,cleanliness,0.8
+Yelken Hotel Akyaka,pool_beach,0.6
+Yelken Hotel Akyaka,room_facilities,0.8
+Yener Apart,breakfast_quality,0.8
+Yener Apart,cleanliness,0.8
+Yener Apart,pool_beach,0.8
+Yener Apart,room_facilities,0.8
+Yeni sıtar apart,breakfast_quality,0.4
+Yeni sıtar apart,cleanliness,0.4
+Yeni sıtar apart,pool_beach,0.4
+Yeni sıtar apart,room_facilities,0.3
+Yenice Vadi,breakfast_quality,0.7
+Yenice Vadi,cleanliness,0.8
+Yenice Vadi,pool_beach,0.8
+Yenice Vadi,room_facilities,0.7
+Yücelen Otel Akyaka,breakfast_quality,0.9
+Yücelen Otel Akyaka,cleanliness,0.9
+Yücelen Otel Akyaka,pool_beach,0.9
+Yücelen Otel Akyaka,room_facilities,0.9
+belgin pansiyon,breakfast_quality,0.7
+belgin pansiyon,cleanliness,0.8
+belgin pansiyon,pool_beach,0.7
+belgin pansiyon,room_facilities,0.9
+portofino apart,breakfast_quality,0.4
+portofino apart,cleanliness,0.4
+portofino apart,pool_beach,0.4
+portofino apart,room_facilities,0.4
+villa vali Akyaka Apart,breakfast_quality,0.8
+villa vali Akyaka Apart,cleanliness,0.9
+villa vali Akyaka Apart,pool_beach,0.7
+villa vali Akyaka Apart,room_facilities,0.8
+ÇALCALAR OTEL,breakfast_quality,1.0
+ÇALCALAR OTEL,cleanliness,1.0
+ÇALCALAR OTEL,pool_beach,1.0
+ÇALCALAR OTEL,room_facilities,1.0
+İNCİLİ PANSİYON-OTEL-APART,breakfast_quality,1.0
+İNCİLİ PANSİYON-OTEL-APART,cleanliness,1.0
+İNCİLİ PANSİYON-OTEL-APART,pool_beach,1.0
+İNCİLİ PANSİYON-OTEL-APART,room_facilities,1.0
+İnci Apart,breakfast_quality,0.3
+İnci Apart,cleanliness,0.3
+İnci Apart,pool_beach,0.3
+İnci Apart,room_facilities,0.2
+İskelem Butik Otel,breakfast_quality,1.0
+İskelem Butik Otel,cleanliness,1.0
+İskelem Butik Otel,pool_beach,1.0
+İskelem Butik Otel,room_facilities,1.0
+İzethan Hotel,breakfast_quality,0.8
+İzethan Hotel,cleanliness,0.9
+İzethan Hotel,pool_beach,0.8
+İzethan Hotel,room_facilities,0.6
