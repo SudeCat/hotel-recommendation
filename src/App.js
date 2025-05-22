@@ -8,7 +8,7 @@ import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 import ProfilePage from './pages/ProfilePage';
 import HotelDetail from './pages/HotelDetail';
-import { UserProvider } from './context/UserContext';
+import { UserProvider, useUser } from './context/UserContext';
 
 const theme = createTheme({
   palette: {
@@ -35,11 +35,11 @@ const theme = createTheme({
   },
 });
 
-// function ProtectedRoute({ children }) {
-//   const { user, loading } = useUser();
-//   if (loading) return null;
-//   return user ? children : <Navigate to="/login" replace />;
-// }
+function ProtectedRoute({ children }) {
+  const { user, loading } = useUser();
+  if (loading) return null;
+  return user ? children : <Navigate to="/login" replace />;
+}
 
 function AppWithNavbar() {
   const location = useLocation();
@@ -48,11 +48,23 @@ function AppWithNavbar() {
     <>
       {!hideNavbar && <Navbar />}
       <Routes>
-        <Route path="/" element={<HotelRecommendationPage />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<SignupPage />} />
-        <Route path="/profile" element={<ProfilePage />} />
-        <Route path="/hotel/:id" element={<HotelDetail />} />
+        <Route path="/" element={
+          <ProtectedRoute>
+            <HotelRecommendationPage />
+          </ProtectedRoute>
+        } />
+        <Route path="/profile" element={
+          <ProtectedRoute>
+            <ProfilePage />
+          </ProtectedRoute>
+        } />
+        <Route path="/hotel/:id" element={
+          <ProtectedRoute>
+            <HotelDetail />
+          </ProtectedRoute>
+        } />
       </Routes>
     </>
   );
