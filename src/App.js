@@ -36,9 +36,9 @@ const theme = createTheme({
 });
 
 function ProtectedRoute({ children }) {
-  const { user, loading } = useUser();
+  const { user, loading, guest } = useUser();
   if (loading) return null;
-  return user ? children : <Navigate to="/login" replace />;
+  return (user || guest) ? children : <Navigate to="/login" replace />;
 }
 
 function AppWithNavbar() {

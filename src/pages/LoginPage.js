@@ -9,7 +9,7 @@ import VisibilityOff from '@mui/icons-material/VisibilityOff';
 const HOTEL_BG = "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80";
 
 export default function LoginPage() {
-  const { login } = useUser();
+  const { login, continueAsGuest } = useUser();
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
@@ -154,8 +154,12 @@ export default function LoginPage() {
               <Button
                 fullWidth
                 variant="outlined"
-                sx={{ mt: 2, fontWeight: 700 }}
-                onClick={() => navigate('/')}
+                color="secondary"
+                sx={{ mt: 2 }}
+                onClick={() => {
+                  continueAsGuest();
+                  navigate('/');
+                }}
               >
                 Continue as Guest
               </Button>

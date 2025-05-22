@@ -10,6 +10,7 @@ export function UserProvider({ children }) {
   const [user, setUser] = useState(null);
   const [token, setToken] = useState(localStorage.getItem('token'));
   const [loading, setLoading] = useState(true);
+  const [guest, setGuest] = useState(localStorage.getItem('guest') === 'true');
 
   useEffect(() => {
     if (token) {
@@ -35,20 +36,32 @@ export function UserProvider({ children }) {
     const res = await axios.post(`${API_URL}/api/login`, form);
     setToken(res.data.access_token);
     localStorage.setItem('token', res.data.access_token);
+    setGuest(false);
+    localStorage.removeItem('guest');
   };
 
   const signup = async (username, email, password) => {
     await axios.post(`${API_URL}/api/register`, { username, email, password });
   };
 
-  const logout = () => {
+  const continueAsGuest = () => {
+    setGuest(true);
+    localStorage.setItem('guest', 'true');
     setUser(null);
     setToken(null);
     localStorage.removeItem('token');
   };
 
+  const logout = () => {
+    setUser(null);
+    setToken(null);
+    setGuest(false);
+    localStorage.removeItem('token');
+    localStorage.removeItem('guest');
+  };
+
   return (
-    <UserContext.Provider value={{ user, token, login, signup, logout, loading }}>
+    <UserContext.Provider value={{ user, token, login, signup, logout, loading, guest, continueAsGuest }}>
       {children}
     </UserContext.Provider>
   );
