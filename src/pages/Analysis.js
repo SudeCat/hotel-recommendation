@@ -36,6 +36,9 @@ ChartJS.register(
   ArcElement
 );
 
+const API_URL = process.env.REACT_APP_API_URL;
+if (!API_URL) throw new Error('REACT_APP_API_URL is not defined!');
+
 const Analysis = () => {
   const [searchParams] = useSearchParams();
   const hotelId = searchParams.get('hotelId');
@@ -47,7 +50,7 @@ const Analysis = () => {
     const fetchAnalysisData = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:8000/api/sentiment-analysis/${hotelId}`
+          `${API_URL}/api/sentiment-analysis/${hotelId}`
         );
         setAnalysisData(response.data);
         setLoading(false);

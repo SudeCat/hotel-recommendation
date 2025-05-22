@@ -15,6 +15,9 @@ import {
 } from '@mui/material';
 import axios from 'axios';
 
+const API_URL = process.env.REACT_APP_API_URL;
+if (!API_URL) throw new Error('REACT_APP_API_URL is not defined!');
+
 const HotelList = () => {
   const [hotels, setHotels] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -24,7 +27,7 @@ const HotelList = () => {
   useEffect(() => {
     const fetchHotels = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/api/hotels');
+        const response = await axios.get(`${API_URL}/api/hotels`);
         setHotels(response.data);
         setLoading(false);
       } catch (error) {

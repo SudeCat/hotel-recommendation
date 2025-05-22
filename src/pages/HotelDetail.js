@@ -9,6 +9,9 @@ const featureMap = {
   'Temizlik': 'Cleanliness',
 };
 
+const API_URL = process.env.REACT_APP_API_URL;
+if (!API_URL) throw new Error('REACT_APP_API_URL is not defined!');
+
 export default function HotelDetail() {
   const { id } = useParams();
   const [hotel, setHotel] = useState(null);
@@ -18,12 +21,12 @@ export default function HotelDetail() {
   const [selectedAspects, setSelectedAspects] = useState([]);
 
   useEffect(() => {
-    axios.get(`http://localhost:8000/api/hotels`).then(res => {
+    axios.get(`${API_URL}/api/hotels`).then(res => {
       const found = res.data.find(h => h.hotel_name === id);
       setHotel(found);
       // Fetch similar hotels using the new API
       if (found) {
-        axios.get(`http://localhost:8000/api/similar_hotels?hotel_name=${encodeURIComponent(found.hotel_name)}&top_n=5`)
+        axios.get(`${API_URL}/api/similar_hotels?hotel_name=${encodeURIComponent(found.hotel_name)}&top_n=5`)
           .then(res2 => setSimilarHotels(res2.data))
           .catch(() => setSimilarHotels([]));
       }

@@ -94,6 +94,9 @@ const aspectToSub = {
   "Leisure & Meals": ["breakfast","beach","holiday"]
 };
 
+const API_URL = process.env.REACT_APP_API_URL;
+if (!API_URL) throw new Error('REACT_APP_API_URL is not defined!');
+
 export default function HotelRecommendationPage() {
   const { user } = useUser();
   const [hotels, setHotels] = useState([]);
@@ -113,7 +116,7 @@ export default function HotelRecommendationPage() {
   const [selectedSubaspects, setSelectedSubaspects] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:8000/api/hotels')
+    axios.get(`${API_URL}/api/hotels`)
       .then(res => {
         setHotels(res.data);
         const allAspects = Array.from(new Set(res.data.flatMap(h => Object.keys(h.aspects || {}))));
